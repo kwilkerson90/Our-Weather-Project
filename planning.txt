@@ -13,3 +13,4 @@ Frontend Weather Project
 -display results from the weather data; implement data via HTML and JS; find all the elements on the page and replace their content
 -create event listeners (search button, enter key)
 -add a voice functionality; gives weather/traffic-related prompts, i.e. "Slow down, the roads are slick!"
+blah blah
