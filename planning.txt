@@ -1,0 +1,15 @@
+Frontend Weather Project
+
+-create a group repo
+-create a wireframe 
+-create the HTML markup
+    -ex. grid or flexbox?
+    -include input (search) box
+    -make sure media queries are included
+-create CSS styling- either from scratch or Bootstrap
+-narrow down APIs that we want to use- weather API, live traffic API, Unsplash API (allows you to get random images using a search term)
+-read and interpret API documentation
+-create an XHR or fetch request for the weather data
+-display results from the weather data; implement data via HTML and JS; find all the elements on the page and replace their content
+-create event listeners (search button, enter key)
+-add a voice functionality; gives weather/traffic-related prompts, i.e. "Slow down, the roads are slick!"
